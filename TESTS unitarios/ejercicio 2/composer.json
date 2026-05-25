@@ -1,0 +1,17 @@
+{
+    "name": "demo/phpunit-examples",
+    "description": "Ejemplos de PHPUnit - funciones puras, clases, DataProvider y Mocks",
+    "require-dev": {
+        "phpunit/phpunit": "^11"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "autoload-dev": {
+        "classmap": [
+            "tests/"
+        ]
+    }
+}

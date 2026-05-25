@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1779714894818" clover="3.2.0">
+  <project timestamp="1779714894818" name="All files">
+    <metrics statements="44" coveredstatements="18" conditionals="16" coveredconditionals="6" methods="19" coveredmethods="4" elements="79" coveredelements="28" complexity="0" loc="44" ncloc="44" packages="1" files="5" classes="5"/>
+    <file name="ShoppingCart.js" path="C:\Users\steph\Downloads\mi-proyecto-fixed\proyecto-fixed\src\ShoppingCart.js">
+      <metrics statements="9" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="8" coveredmethods="0"/>
+      <line num="3" count="0" type="stmt"/>
+      <line num="7" count="0" type="stmt"/>
+      <line num="8" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="9" count="0" type="stmt"/>
+      <line num="11" count="0" type="stmt"/>
+      <line num="16" count="0" type="stmt"/>
+      <line num="20" count="0" type="stmt"/>
+      <line num="24" count="0" type="stmt"/>
+      <line num="28" count="0" type="stmt"/>
+    </file>
+    <file name="app.js" path="C:\Users\steph\Downloads\mi-proyecto-fixed\proyecto-fixed\src\app.js">
+      <metrics statements="18" coveredstatements="18" conditionals="6" coveredconditionals="6" methods="4" coveredmethods="4"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="15" count="3" type="stmt"/>
+      <line num="16" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="21" count="2" type="stmt"/>
+      <line num="22" count="2" type="cond" truecount="4" falsecount="0"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="25" count="1" type="stmt"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="27" count="1" type="stmt"/>
+      <line num="30" count="1" type="stmt"/>
+    </file>
+    <file name="mathHelper.js" path="C:\Users\steph\Downloads\mi-proyecto-fixed\proyecto-fixed\src\mathHelper.js">
+      <metrics statements="4" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <line num="2" count="0" type="stmt"/>
+      <line num="6" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="7" count="0" type="stmt"/>
+      <line num="10" count="0" type="stmt"/>
+    </file>
+    <file name="userService.js" path="C:\Users\steph\Downloads\mi-proyecto-fixed\proyecto-fixed\src\userService.js">
+      <metrics statements="9" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="4" coveredmethods="0"/>
+      <line num="3" count="0" type="stmt"/>
+      <line num="7" count="0" type="cond" truecount="0" falsecount="4"/>
+      <line num="8" count="0" type="stmt"/>
+      <line num="10" count="0" type="stmt"/>
+      <line num="11" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="12" count="0" type="stmt"/>
+      <line num="16" count="0" type="stmt"/>
+      <line num="17" count="0" type="stmt"/>
+      <line num="21" count="0" type="stmt"/>
+    </file>
+    <file name="weatherService.js" path="C:\Users\steph\Downloads\mi-proyecto-fixed\proyecto-fixed\src\weatherService.js">
+      <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="1" count="0" type="stmt"/>
+      <line num="4" count="0" type="stmt"/>
+      <line num="7" count="0" type="stmt"/>
+      <line num="10" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>

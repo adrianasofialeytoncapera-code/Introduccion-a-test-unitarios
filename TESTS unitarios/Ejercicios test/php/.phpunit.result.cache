@@ -1,0 +1,1 @@
+{"version":2,"defects":[],"times":{"OrderServiceTest::testPlaceOrderValidOrder":0.024,"OrderServiceTest::testPlaceOrderInsufficientStock":0.001,"StringHelperTest::testTruncateReturnsOriginalWhenWithinLimit":0.006,"StringHelperTest::testTruncateCutsTextAndAddsSuffix":0,"StringHelperTest::testToSlugConvertsCorrectly":0,"StringHelperTest::testCountWordsCountsCorrectly":0}}

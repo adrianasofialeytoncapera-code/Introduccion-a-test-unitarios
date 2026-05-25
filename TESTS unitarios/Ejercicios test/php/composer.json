@@ -1,0 +1,17 @@
+{
+    "name": "steph/php",
+    "autoload": {
+        "psr-4": {
+            "Steph\\Php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "stephanie",
+            "email": "222stephasantapiez@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    }
+}
